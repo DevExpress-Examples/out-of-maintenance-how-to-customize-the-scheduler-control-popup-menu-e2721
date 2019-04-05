@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainWindow.xaml](./CS/PopupMenuCustomization/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/PopupMenuCustomization/MainWindow.xaml.vb))
+* [MainWindow.xaml](./CS/PopupMenuCustomization/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/PopupMenuCustomization/MainWindow.xaml))
 * [MainWindow.xaml.cs](./CS/PopupMenuCustomization/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/PopupMenuCustomization/MainWindow.xaml.vb))
 <!-- default file list end -->
 # How to customize the Scheduler control popup menu
