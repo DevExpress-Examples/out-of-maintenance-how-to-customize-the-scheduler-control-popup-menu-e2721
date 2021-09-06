@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PopupMenuCustomization", "PopupMenuCustomization\PopupMenuCustomization.csproj", "{6912B4A3-16B9-414F-ADD6-904E31C20811}"
+# Visual Studio 16
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PopupMenuCustomization", "PopupMenuCustomization\PopupMenuCustomization.Net5.csproj", "{6912B4A3-16B9-414F-ADD6-904E31C20811}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
